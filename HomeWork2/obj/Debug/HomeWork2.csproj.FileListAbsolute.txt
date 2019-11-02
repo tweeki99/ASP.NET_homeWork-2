@@ -1,0 +1,141 @@
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\HomeWork2.dll.config
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\HomeWork2.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\HomeWork2.pdb
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\csc.exe
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\csc.exe.config
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\csc.rsp
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\csi.exe
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\csi.exe.config
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\csi.rsp
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.AppContext.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Console.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.IO.Compression.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Security.Claims.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.ValueTuple.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\vbc.exe
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\vbc.exe.config
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\vbc.rsp
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\VBCSCompiler.exe
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\System.Web.Helpers.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\System.Web.Mvc.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\System.Web.Razor.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\System.Web.Webpages.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\System.Web.Webpages.Razor.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\System.Web.Razor.xml
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\System.Web.Webpages.xml
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\System.Web.Webpages.Razor.xml
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\System.Web.Helpers.xml
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\System.Web.Mvc.xml
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CopyComplete
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.dll
+C:\Users\шипиловд\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\HomeWork2.dll.config
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\HomeWork2.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\HomeWork2.pdb
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\csc.exe
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\csc.exe.config
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\csc.rsp
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\csi.exe
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\csi.exe.config
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\csi.rsp
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\Microsoft.Managed.Core.targets
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.AppContext.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Collections.Immutable.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Console.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.IO.Compression.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.IO.FileSystem.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.IO.Pipes.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Reflection.Metadata.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Security.AccessControl.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Security.Claims.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Security.Principal.Windows.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.ValueTuple.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Xml.XmlDocument.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Xml.XPath.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\vbc.exe
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\vbc.exe.config
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\vbc.rsp
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\VBCSCompiler.exe
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\roslyn\VBCSCompiler.exe.config
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\Microsoft.Web.Infrastructure.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\System.Web.Helpers.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\System.Web.Mvc.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\System.Web.Razor.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\System.Web.Webpages.Deployment.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\System.Web.Webpages.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\System.Web.Webpages.Razor.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\System.Web.Razor.xml
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\System.Web.Webpages.xml
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\System.Web.Webpages.Deployment.xml
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\System.Web.Webpages.Razor.xml
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\System.Web.Helpers.xml
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\System.Web.Mvc.xml
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CopyComplete
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\obj\Debug\HomeWork2.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\EntityFramework.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\EntityFramework.SqlServer.dll
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\EntityFramework.xml
+F:\1 Shag\ASP.NET\HomeWork2\HomeWork2\bin\EntityFramework.SqlServer.xml
